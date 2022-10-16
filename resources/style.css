@@ -12,7 +12,7 @@ body{
 
 .head{
     font-weight: normal;
-    font-size: 50px;
+    font-size: 20px;
     color: white;
 }
 
@@ -23,6 +23,23 @@ body{
 }
 .head2{
     font-weight: normal;
-    font-size: 50px;
+    font-size: 20px;
     color: white;
+}
+.head3{
+    font-weight: normal;
+    font-size: 20px;
+    color: white;
+}
+.head4{
+    font-weight: normal;
+    font-size: 20px;
+    color: white;
+}
+
+.footer{
+    font-size: normal;
+    font-size: 15px;
+    color: grey;
+    text-align: right;
 }
